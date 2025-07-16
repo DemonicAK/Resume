@@ -1,0 +1,56 @@
+{
+  "about": {
+    "name": "Arijit Kar",
+    "role": "Developer && Student",
+    "bio": "Software Developer Intern at Avataar Skincare. Previously built ML systems at Indian Air Force. Passionate about full-stack development and AI.",
+    "link": "https://arijitkar.com",
+    "avatar": "/arijit.jpg"
+  },
+  "experience": [
+    {
+      "title": "Developer & Business Analyst Intern",
+      "company": "Avataar Skincare Technologies",
+      "duration": "Jan 2025 – Jul 2025",
+      "details": "Led full-stack projects, ML feedback pipeline, cart recovery, SQL analytics, and optimization algorithms."
+    },
+    {
+      "title": "Machine Learning Engineer Intern",
+      "company": "Indian Air Force, 13 BRD",
+      "duration": "Jun 2024 – Jul 2024",
+      "details": "Built hand gesture recognition using TensorFlow & OpenCV. Deployed browser-based models using TensorFlow.js."
+    }
+  ],
+  "projects": [
+    {
+      "title": "ProxyNova",
+      "stack": "TypeScript",
+      "description": "Proxy system with rotation, failover, and monitoring dashboard.",
+      "link": "https://github.com/DemonicAK"
+    },
+    {
+      "title": "Real-time Chat App",
+      "stack": "MERN",
+      "description": "Chat system using WebSockets with moderation & MongoDB.",
+      "link": "https://github.com/DemonicAK"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Netaji Subhas University of Technology",
+      "degree": "B.Tech in ECE (AI & ML)",
+      "year": "2021 – 2025",
+      "details": "CGPA: 8.13"
+    },
+    {
+      "institution": "RPVV Lajpat Nagar",
+      "degree": "Senior Secondary",
+      "year": "2020 – 2021",
+      "details": "Percentage: 94.8%"
+    }
+  ],
+  "contact": {
+    "email": "arijit@arijitkar.com",
+    "github": "https://github.com/DemonicAK",
+    "linkedin": "https://linkedin.com/in/arijitkar0x7"
+  }
+}
