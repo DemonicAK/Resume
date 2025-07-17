@@ -2,7 +2,7 @@
   "about": {
     "name": "Arijit Kar",
     "role": "Developer && Student",
-    "bio": "Software Developer Intern at Avataar Skincare. Previously built ML systems at Indian Air Force. Passionate about full-stack development and AI.",
+    "bio": "Ex-Software Developer Intern at Avataar Skincare. Previously built ML systems at Indian Air Force. Passionate about full-stack development and AI.",
     "link": "https://arijitkar.com",
     "avatar": "/arijit.jpg"
   },
@@ -20,19 +20,85 @@
       "details": "Built hand gesture recognition using TensorFlow & OpenCV. Deployed browser-based models using TensorFlow.js."
     }
   ],
-  "projects": [
-    {
-      "title": "ProxyNova",
-      "stack": "TypeScript",
-      "description": "Proxy system with rotation, failover, and monitoring dashboard.",
-      "link": "https://github.com/DemonicAK"
-    },
-    {
-      "title": "Real-time Chat App",
-      "stack": "MERN",
-      "description": "Chat system using WebSockets with moderation & MongoDB.",
-      "link": "https://github.com/DemonicAK"
-    }
+ "projects": [
+  {
+    "title": "ProxyNova",
+    "stack": "TypeScript",
+    "description": "Custom proxy server with rotation, failover handling, and performance monitoring dashboard.",
+    "link": "https://github.com/DemonicAK/proxynova"
+  },
+  {
+    "title": "Tech Blog Platform",
+    "stack": "Next.js + firebase + TailwindCSS",
+    "description": "Developer blog built from scratch to publish tech writeups, projects, and tutorials with SEO and dark mode support.",
+    "link": "https://techblog.arijitkar.com"
+  },
+  {
+    "title": "Real-time Chat App",
+    "stack": "MERN",
+    "description": "Chat application using WebSockets, Express, and MongoDB with message moderation support.",
+    "link": "https://neonflux.vercel.app/"
+  },
+  {
+    "title": "Personal Finance Tracker",
+    "stack": "React + Node.js + MongoDB",
+    "description": "Track income, expenses, and savings with a minimalist dashboard and Google Auth integration.",
+    "link": "https://pocketportrait.vercel.app/"
+  },
+  {
+    "title": "VS Code Extension – Italics All Themes",
+    "stack": "TypeScript + Webpack",
+    "description": "VS Code extension with 400+ users that makes all fonts italic across any theme.",
+    "link": "https://marketplace.visualstudio.com/items?itemName=KarIndustries.italics-all-themes"
+  },
+  {
+    "title": "Image Caption Generator",
+    "stack": "TensorFlow + CNN + LSTM",
+    "description": "Deep learning model that generates image captions using computer vision and NLP.",
+    "link": "https://www.kaggle.com/code/demonicak/imagecaptioning"
+  },
+  {
+    "title": "Speech Quality Prediction",
+    "stack": "Python + Scikit-learn",
+    "description": "ML model to predict perceived speech quality from audio features.",
+    "link": "https://www.kaggle.com/code/demonicak/grammarscoringengine"
+  },
+  {
+    "title": "Interview Chatbot",
+    "stack": "LangChain + OpenAI",
+    "description": "AI chatbot for mock interviews, providing real-time Q&A with feedback using LLMs.",
+    "link": "https://github.com/DemonicAK/chatbot"
+  },
+  {
+    "title": "SQL Data Analysis Projects",
+    "stack": "SQL + Excel + Power BI",
+    "description": "Trend analysis and dashboarding for employee attrition, automotive data, and call center logs.",
+    "link": "https://github.com/DemonicAK/DataAnalysis_SQL"
+  },
+  {
+    "title": "Python Simulation Projects",
+    "stack": "Python",
+    "description": "Simulations of Monty Hall problem, dice roll probability, and turtle racing visualizations.",
+    "link": "https://github.com/Python-Simulation"
+  },
+  {
+    "title": "Python Games Collection",
+    "stack": "Python (Basic)",
+    "description": "Mini games: number guessing, text-based adventure, and rock-paper-scissors with CLI UI.",
+    "link": "https://github.com/DemonicAK/python_Games"
+  },
+  {
+    "title": "Notes App",
+    "stack": "MERN",
+    "description": "Secure note-taking app with login system, Markdown support, and mobile-responsive UI.",
+    "link": "https://github.com/DemonicAK/Notesapp"
+  },
+  {
+    "title": "Iris Prediction",
+    "stack": "Python + Scikit-learn",
+    "description": "Supervised machine learning model to classify iris species using SVM and Decision Trees.",
+    "link": "https://github.com/DemonicAK"
+  }
   ],
   "education": [
     {
@@ -49,8 +115,38 @@
     }
   ],
   "contact": {
-    "email": "arijit@arijitkar.com",
+    "email": "connect@arijitkar.com",
     "github": "https://github.com/DemonicAK",
     "linkedin": "https://linkedin.com/in/arijitkar0x7"
-  }
+  },
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "items": ["JavaScript", "TypeScript", "Python", "C++"]
+    },
+    {
+      "name": "Web Development",
+      "items": ["React", "Node.js", "Express", "Django"]
+    },
+    {
+      "name": "Machine Learning",
+      "items": ["TensorFlow", "PyTorch", "OpenCV", "FastAPI"]
+    },
+    {
+      "name": "Databases",
+      "items": ["MongoDB", "PostgreSQL", "MySQL"]
+    },
+    {
+      "name": "Tools & Technologies",
+      "items": ["Git", "Docker", "Kubernetes", "AWS"]
+    }
+  ],
+  "hobbies": [
+    "Reading Tech Blogs",
+    "Exploring AI Research",
+    "Playing Chess",
+    "Contributing to Open Source",
+    "Building Personal Projects"
+  ]
+
 }
