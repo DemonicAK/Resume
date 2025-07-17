@@ -21,9 +21,13 @@ export default function App() {
         {/* Header */}
         <div className="flex items-start justify-between mb-12">
           <div className="flex items-start gap-4">
-            <Avatar className="h-32 w-16">
-              <AvatarImage src="./arijitkar_photo.jpg" alt="Arijit kar" />
-            </Avatar>
+            {/* <Avatar className="h-32 w-32"> */}
+            <img 
+            src="./arijitkar.jpg" 
+            alt="Arijit kar"
+              className="w-16 h-32 rounded-full overflow-hidden glass-effect  object-cover object-[50%_20%]"
+             />
+            {/* </Avatar> */}
             <div className="space-y-1 text-left">
               <h1 className="text-2xl font-semibold text-foreground text-left">{data.about.name}</h1>
               <p className="text-base text-muted-foreground text-left">{data.about.role}</p>
