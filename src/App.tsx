@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react"
 import { ModeToggle } from "@/components/modetoggle"
-import { Avatar, AvatarImage } from "@/components/ui/avatar"
 import { InfoCard } from "@/components/ui/project-card"
 import { SkillCard } from "@/components/ui/skill-card"
 import data from "./data/mydata.json"
